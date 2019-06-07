@@ -1,0 +1,11 @@
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\obj\Debug\netcoreapp2.1\ProcessLockMonitor.csprojAssemblyReference.cache
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\obj\Debug\netcoreapp2.1\ProcessLockMonitor.csproj.CoreCompileInputs.cache
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\obj\Debug\netcoreapp2.1\ProcessLockMonitor.AssemblyInfoInputs.cache
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\obj\Debug\netcoreapp2.1\ProcessLockMonitor.AssemblyInfo.cs
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\bin\Debug\netcoreapp2.1\ProcessLockMonitor.deps.json
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\bin\Debug\netcoreapp2.1\ProcessLockMonitor.runtimeconfig.json
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\bin\Debug\netcoreapp2.1\ProcessLockMonitor.runtimeconfig.dev.json
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\bin\Debug\netcoreapp2.1\ProcessLockMonitor.dll
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\bin\Debug\netcoreapp2.1\ProcessLockMonitor.pdb
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\obj\Debug\netcoreapp2.1\ProcessLockMonitor.dll
+C:\Support\ProcessLockMonitor\ProcessLockMonitor\obj\Debug\netcoreapp2.1\ProcessLockMonitor.pdb
